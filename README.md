@@ -10,6 +10,7 @@
 - git log: Show history of project commits
 - git checkout: Check out branch (Update HEAD and apply changes to working
   directory)
+- git merge: Merge changes from different branches
 
 ## Commit messages
 

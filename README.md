@@ -16,4 +16,12 @@
 
 git commit -m "<message>"
 
-first line should be clear accurate, and concise
+- first line should be clear accurate, and concise
+- use proper spelling
+- don't end with a '.'
+
+For more advice, see https://chris.beams.io/posts/git-commit/
+
+## Merging
+
+Merging means to bring changes from one branch into another

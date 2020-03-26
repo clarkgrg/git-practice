@@ -15,6 +15,9 @@
 - git merge: Merge changes from different branches
 - git checkout: check out a branch, update HEAD
 - git checkout -b create a new branch, then check it out
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 
 ## What's a branch?
 
